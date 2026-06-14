@@ -39,10 +39,6 @@ const Card = ({name, profession , like , Comment ,Share}) => {
           <BiShare />
           <span>{Share}|</span>
 
-
-
-
-
         </div>
       </div>
 
